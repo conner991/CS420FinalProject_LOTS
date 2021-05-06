@@ -487,7 +487,9 @@
 
 .aboutusvideo {
   font-family: 'Quattrocento Sans', sans-serif;
+  text-align: center;
   color: #8eb592;
+  padding: 20px;
 }
 
 .heading-11 {
@@ -541,6 +543,7 @@
 .div-block-13 {
   font-family: 'Quattrocento Sans', sans-serif;
   color: #8eb592;
+  text-align: center;
 }
 
 .heading-13 {
@@ -678,46 +681,12 @@
   background-repeat: no-repeat;
 }
 
-.div-block-20 {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  width: 250px;
-  height: 425px;
-  -webkit-box-pack: center;
-  -webkit-justify-content: center;
-  -ms-flex-pack: center;
-  justify-content: center;
-  -webkit-box-align: end;
-  -webkit-align-items: flex-end;
-  -ms-flex-align: end;
-  align-items: flex-end;
-  background-image: url('../images/contact-agui.jpg');
-  background-position: 0px 0px;
-  background-size: contain;
-  background-repeat: no-repeat;
+.p2 {
+  background-image:url('../images/contact-agui.jpg')
 }
 
-.div-block-21 {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  width: 250px;
-  height: 425px;
-  -webkit-box-pack: center;
-  -webkit-justify-content: center;
-  -ms-flex-pack: center;
-  justify-content: center;
-  -webkit-box-align: end;
-  -webkit-align-items: flex-end;
-  -ms-flex-align: end;
-  align-items: flex-end;
-  background-image: url('../images/contact-mel.jpg');
-  background-position: 0px 0px;
-  background-size: contain;
-  background-repeat: no-repeat;
+.p3 {
+  background-image:url('../images/contact-mel.jpg')
 }
 
 .heading-15 {
